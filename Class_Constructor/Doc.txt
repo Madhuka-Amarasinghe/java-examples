@@ -1,6 +1,19 @@
+Object is a bundle of data and its behaviour(often known as method).There are two Charactoristic,
+	1.State - Instance Variable(Class Variable).
+	2.Behaviour - Method of the class.
+
+Class can be represent as Blueprint using witch u can create many objects as you like. 
+
 Constructor is a block of code in java its a kind of a method thats called when an instant of new object created.
 
 Diferences  of Construtor and the Method
 
 1.Constructor Doesn't have return type.
 2.The name of the constructor is same as the name of the class.
+
+Object Oriented Programing Features/Concepts
+
+1.Abstraction is a process where you show only Relevant data and Hide unnecessory data.
+	Eg : when loging to your account we only use user name and the password.
+
+2.Encapsulation is a process of binding object state(filds) and behaviour(method) together.
